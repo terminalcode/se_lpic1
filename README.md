@@ -12,3 +12,4 @@
 * [仮想マシンの演習準備（Ubuntu）](https://lpic.jp/lpicvm/101ubuntu_pre.html)
 
 # 101試験対応演習
+* [101試験・ハードウェアの設定(1)（CentOS/Ubuntu）](101-01-01.md)
