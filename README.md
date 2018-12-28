@@ -17,4 +17,4 @@
 
 ## 備考
 * 試験情報は、LPICについては [www.lpi.org](https://www.lpi.org/) で、LinuCについては [lpi.or.jp](https://lpi.or.jp/) で確認してください。
-* 演習問題に間違いなどがありましたら、[こちらのフォーム](http://form1.fc2.com/form/?id=809222) よりお知らせください。個別に返信はできません。
+* 演習問題に間違いなどがありましたら Issue に上げてください。
