@@ -14,6 +14,11 @@
 # 101試験対応演習
 * [101試験・ハードウェアの設定(1)（CentOS/Ubuntu）](101-1-01.md)
 * [101試験・共有ライブラリの確認（CentOS）](102-3-01.md)
+* [101試験・共有ライブラリの確認（Ubuntu）](102-3-01u.md)
+* [101試験・RPMパッケージの管理(1)（CentOS）](102-5-01.md)
+* [101試験・シェル変数と環境変数（CentOS/Ubuntu）](103-1-01.md)
+* [101試験・コマンドライン操作（CentOS/Ubuntu）](103-1-02.md)
+* [101試験・manマニュアル（CentOS/Ubuntu）](103-1-03.md)
 
 ## 備考
 * 試験情報は、LPICについては [www.lpi.org](https://www.lpi.org/) で、LinuCについては [lpi.or.jp](https://lpi.or.jp/) で確認してください。
